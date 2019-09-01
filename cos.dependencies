@@ -4,10 +4,8 @@
     "target_path": "kernel/xiaomi/sm8150"
   },
   {
-    "repository": "TingyiChen/vendor_xiaomi_raphael",
-    "target_path": "vendor/xiaomi/raphael",
-    "remote": "github",
-    "branch": "lineage-16.0"
+    "repository": "proprietary_vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael"
   },
   {
     "repository": "PixelExperience/packages_apps_WallpapersBReel2018",
