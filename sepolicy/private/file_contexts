@@ -11,7 +11,8 @@
 /persist(/.*)?           u:object_r:persist_file:s0
 
 # HALs
-/system/bin/hw/android\.hardware.power@1\.2-service                    u:object_r:hal_power_default_exec:s0
+#/system/bin/hw/android\.hardware.power@1\.2-service                    u:object_r:hal_power_default_exec:s0
+
 /system/bin/hw/lineage\.biometrics\.fingerprint\.inscreen@1.0-service\.xiaomi_raphael    u:object_r:hal_fod_raphael_exec:s0
 
 # Modules
