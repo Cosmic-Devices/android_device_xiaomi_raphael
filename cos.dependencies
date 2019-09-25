@@ -2,5 +2,9 @@
   {
     "repository": "android_kernel_xiaomi_sm8150",
     "target_path": "kernel/xiaomi/sm8150"
+  },
+  {
+    "repository": "proprietary_vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael"
   }
-]
+]  
