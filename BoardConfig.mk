@@ -46,7 +46,7 @@ ifeq ($(TARGET_PREBUILT_KERNEL),)
   TARGET_KERNEL_CONFIG := raphael_defconfig
   TARGET_KERNEL_CLANG_COMPILE := true
   TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
-  TARGET_KERNEL_SOURCE := kernel/xiaomi/raphael
+  TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8150
 endif
 
 # Platform
