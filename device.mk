@@ -117,7 +117,7 @@ PRODUCT_PACKAGES += \
     libnqnfc-nci \
     nqnfcee_access.xml \
     nqnfcse_access.xml \
-    NfcNci \
+    NQNfcNci \
     SecureElement \
     Tag
 
