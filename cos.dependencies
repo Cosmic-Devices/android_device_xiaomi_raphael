@@ -1,0 +1,18 @@
+[
+  {
+    "repository" : "proprietary_vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch": "quasar-release"
+  },
+  {
+    "repository" : "android_kernel_xiaomi_raphael",
+    "target_path": "kernel/xiaomi/raphael",
+    "branch": "quasar-release"
+  },
+  {
+    "repository": "PixelExperience/packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch": "ten",
+    "remote": "gitlab"
+  }
+]
