@@ -63,7 +63,6 @@ ifeq ($(TARGET_PREBUILT_KERNEL),)
 endif
 
 # Platform
-TARGET_BOARD_PLATFORM := msmnile
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno640
 
 # Audio
@@ -156,9 +155,6 @@ TARGET_USES_NON_LEGACY_POWERHAL := true
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
-
-# QCOM
-BOARD_USES_QCOM_HARDWARE := true
 
 # Recovery
 TARGET_RECOVERY_PIXEL_FORMAT := "BGRA_8888"
