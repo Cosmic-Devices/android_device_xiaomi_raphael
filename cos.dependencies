@@ -14,5 +14,23 @@
     "target_path": "packages/apps/PixelLiveWallpaper",
     "branch": "ten",
     "remote": "gitlab"
+  },
+  {
+    "repository": "sagarshah1729/hardware_qcom-caf_sm8150_display",
+    "target_path": "hardware/qcom/display/sm8150",
+    "branch": "ten",
+    "remote": "github"
+  },
+  {
+    "repository": "sagarshah1729/hardware_qcom-caf_sm8150_media",
+    "target_path": "hardware/qcom/media/sm8150",
+    "branch": "ten",
+    "remote": "github"
+  },
+    {
+    "repository": "sagarshah1729/hardware_qcom-caf_sm8150_audio",
+    "target_path": "hardware/qcom/audio/sm8150",
+    "branch": "ten",
+    "remote": "github"
   }
 ]
